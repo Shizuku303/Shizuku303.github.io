@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #992f59;
+  background: #bb1a13;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2564,7 +2564,7 @@ ul.breadcrumb li + li:last-child {
     margin: 8px 0 0;
   }
 }
-body {
+.body {
   background: url("images/background_nya.png");
   background-size: cover;
   background-repeat: no-repeat;
